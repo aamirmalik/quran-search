@@ -2,6 +2,7 @@
 A Python Library to access Quran elements and search perform operations
 
 # Sample Usage
+```
 >>> import quran
 >>> q=quran.quran()
 >>> q.analyze_ayat(114, 5)
@@ -70,4 +71,4 @@ A Python Library to access Quran elements and search perform operations
 1: ُ b'\xd9\x8f'
 2: ل b'\xd9\x84'
 3: ْ b'\xd9\x92'
->>> 
+```
