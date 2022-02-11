@@ -1,6 +1,11 @@
 # Quran Search
 A Python Library to access Quran elements and search perform operations
 
+The text of the Quran is lifted from the following site in xml format and converted to Json:
+https://tanzil.net/download/
+
+
+
 # Sample Usage
 ```
 >>> import quran
